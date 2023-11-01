@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --primary-color: #090214;
+  --secondary-color: #161616;
+  --cards: rgb(170, 170, 170);
+  --cards-30: rgba(43, 43, 43, 0.3);
+  --btn: #7825FF;
+  --btn-30: #37028d;
+}
