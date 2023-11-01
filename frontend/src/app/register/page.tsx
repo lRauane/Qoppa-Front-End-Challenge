@@ -91,6 +91,7 @@ export default function Register() {
               <span>{errors.password.message}</span>
             )}
           </div>
+          
 
           <div className="mt-[24px]">
             <Button type="submit" className="w-[100%]">
